@@ -66,8 +66,8 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
+    subtitle = "Saigon IT Consultant"
+    owner = "Tuan"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
