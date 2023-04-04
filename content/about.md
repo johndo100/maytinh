@@ -34,7 +34,7 @@ I've buid my mini-homelab, selfhosted my websites and my apps at my home.
 
 ### Contact me if you think I can help.
 
-Telephone: [091-802-6858](tel:0918026858).
+Email: tuanth.ify4g@simplelogin.com
 
 I will be around Thu Duc, Saigon.
 
