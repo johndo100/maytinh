@@ -86,6 +86,10 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Post"
+        url = "/posts"
+      [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"
