@@ -18,7 +18,7 @@ I can communicate effectively with them who are low-tech-user and providing advi
 
 I'd like to build a solution that will be simple, easy-to-use with less-maintain.
 
-It can be running for a long time.
+It can be running for a long time and I don't need to touch it.
 
 I have experience in software and hardware.
 
@@ -29,8 +29,8 @@ I've buid my mini-homelab, selfhosted my websites and my apps at my home.
 - OS: FreeBSD, Linux, Windows
 - Programming language: Python, Golang, HTML, JS
 - Database: SQL, Excel
-- Framwework: Hugo, Wordpress
-- Tool: Docker, Git
+- Framwework: Hugo
+- Tool: Jail, Docker, Git
 
 ### Contact me if you think I can help.
 
